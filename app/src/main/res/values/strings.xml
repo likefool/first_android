@@ -7,6 +7,8 @@
     <string name="base_alike">Alike Base</string>
     <string name="edit_message">Edit Message</string>
     <string name="button_send">Send</string>
-    <string name="title_activity_display_message">DisplayMessageActivity</string>
+    <string name="title_activity_display_message">DisplayMeg</string>
+
+    <string name="action_search">Search</string>
 
 </resources>
